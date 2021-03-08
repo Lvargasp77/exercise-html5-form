@@ -24,3 +24,6 @@ Here is the bootstrap 4 documentation about forms: [https://getbootstrap.com/doc
 ## What to do if you are stuck?
 
 Don't get frustrated, ask for help! After you try on you own for 30 minutes, it is time to stop trying and ask for help.
+```sh
+$ pip3 install flask && python3 server.py
+```
